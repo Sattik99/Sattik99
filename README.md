@@ -1,16 +1,25 @@
-## Hi there 👋
+# Akib Sattik
 
-<!--
-**Sattik99/Sattik99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior IT Support Analyst with hands-on experience in Microsoft Intune, Entra ID, Windows endpoint administration, and PowerShell automation. I focus on building scalable, secure, and repeatable solutions for enterprise environments.
 
-Here are some ideas to get you started:
+## What I Work With
+- Microsoft Intune & Windows Autopilot
+- Entra ID (Azure AD) & Active Directory
+- PowerShell automation for IT operations
+- Windows 10/11 endpoint management
+- Microsoft 365 & Exchange Online
+- Device security & compliance (BitLocker, baselines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **PowerShell IT Automation**
+  - Collection of scripts for AD, Intune, Windows updates, and device management
+  - Focused on reducing manual effort and improving reliability
+
+## Current Focus
+- Deepening Windows & Intune architecture knowledge
+- Studying system administration and security fundamentals
+- Building production-ready automation and documentation
+
+## Connect
+- Website: https://www.akibtech.com
+- LinkedIn: https://www.linkedin.com/in/akib-raihan-sattik-884835b5
