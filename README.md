@@ -21,4 +21,4 @@ Senior IT Support Analyst with hands-on experience in Microsoft Intune, Entra ID
 - Building production-ready automation and documentation
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/akib-raihan-sattik-884835b5
+- LinkedIn: https://www.linkedin.com/in/akibraihansattik/
